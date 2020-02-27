@@ -1,0 +1,74 @@
+<section class="portfolio">
+	<h2 class="portfolio__heading"></h2>
+	<p class="portfolio__paragraph"></p>
+	<div class="portfolio__buttons">
+		<button></button>
+		<button></button>
+		<button></button>
+		<button></button>
+	</div>
+	<div class="portfolio__galary">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+		<img src="" alt="">
+	</div>
+</section>
+<section class="aboutUs">
+	<h2 class="aboutUs__heading"></h2>
+	<p class="aboutUs__paragraph"></p>
+	<div class="aboutUs__persons">
+		<div class="aboutUs__card">
+			<img src="" alt="">
+			<h3></h3>
+			<p></p>
+			<div class="aboutUs__icons">
+				<img src="" alt="">
+				<img src="" alt="">
+				<img src="" alt="">
+				<img src="" alt="">
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+Our Services
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.
+
+Custom Design
+
+Curabitur vestibulum eget mauris quis laoreet. Phasellus in quam laoreet, viverra lacus ut, ultrices velit.
+
+Responsive Layout
+
+Sed porttitor placerat rhoncus. In at nunc tellus. Maecenas blandit nunc ligula. Praesent elit leo.
+
+Inovative Ideas
+
+Quisque luctus, quam eget molestie commodo, lacus purus cursus purus, nec rutrum tellus dolor id lorem.
+
+24 / 7 Support
+
+Vivamus vel quam lacinia, tincidunt dui non, vehicula nisi. Nulla a sem erat. Pellentesque egestas venenatis lorem .
+
+Love Is The Answer
+
+Nulla sed nunc et tortor luctus faucibus. Morbi at aliquet turpis, et consequat felis. Quisque condimentum.
+
+Feel Like A Star
+
+Quisque hendrerit purus dapibus, ornare nibh vitae, viverra nibh. Fusce vitae aliquam tellus.
